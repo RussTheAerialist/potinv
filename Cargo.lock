@@ -118,9 +118,9 @@ checksum = "d515b1f41455adea1313a4a2ac8a8a477634fbae63cc6100e3aebb207ce61558"
 
 [[package]]
 name = "minimal-id"
-version = "0.7.0"
+version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bd6c7a44468f698888c4976f19580a5959be1fb6a2474fefda33bc3b55039854"
+checksum = "ec37ba1719b4f8d4db4f730ce288232d0dceb6ff4d74d45c3020828ace9b9ead"
 dependencies = [
  "byteorder",
  "data-encoding",
