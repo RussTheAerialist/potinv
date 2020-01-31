@@ -1,0 +1,2 @@
+[workspace]
+members = [ "potinv_domain", "potinv_api" ]
