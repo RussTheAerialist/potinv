@@ -7,3 +7,6 @@ publish = false
 
 [dependencies]
 potinv_domain = { path = "../potinv_domain" }
+juniper = "0.14"
+juniper_warp = "0.5"
+minimal-id = { version = "0.8", features = ["juniper", "graphql"] }

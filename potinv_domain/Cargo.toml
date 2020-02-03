@@ -7,5 +7,5 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-minimal-id = "0"
+minimal-id = { version = "0", features = [ "graphql", "juniper" ] }
 derive_builder = "0.9.0"
